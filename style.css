@@ -21,34 +21,34 @@ a {
 @media (max-width: 1080px) {
   .container {
     width: 700px;
-    margin: 5rem auto;
+    margin: 5px auto;
   }
 }
 
 @media (max-width: 720px) {
   .container {
     width: 650px;
-    margin: 5rem auto;
+    margin: 5px auto;
   }
 }
 
 @media (max-width: 540px) {
   .container {
     width: 480px;
-    margin: 5rem auto;
+    margin: 5px auto;
   }
 }
 
 @media (max-width: 480px) {
   .container {
     width: 300px;
-    margin: 5rem auto;
+    margin: 5px auto;
   }
 }
 
 .container {
   width: 700px;
-  margin: 5rem auto;
+  margin: 5px auto;
 }
 
 /* Custom Styles */
