@@ -46,6 +46,11 @@ a {
   }
 }
 
+.container {
+  width: 700px;
+  margin: 5rem auto;
+}
+
 /* Custom Styles */
 
 img.img-circle {
